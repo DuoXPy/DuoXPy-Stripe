@@ -61,7 +61,7 @@ STRIPE_ENDPOINT_SECRET=your_stripe_endpoint_secret
 5. Run the bot:
 
 ```bash
-python bot.py
+python main.py
 ```
 
 ---
