@@ -1,0 +1,4 @@
+discord.py
+stripe
+python-dotenv
+aiohttp
