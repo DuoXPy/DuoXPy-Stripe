@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/pu9uDNVMHT">
+  <a href="https://discord.gg/kPx28kdwap">
     <img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=flat-square&logo=discord">
   </a>
   <a href="https://github.com/Chromeyc/DuoXPy-Stripe">
@@ -128,7 +128,7 @@ Built with:
 
 Have questions or want to share feedback? Join our Discord:
 
-[![Discord](https://img.shields.io/badge/discord-join%20now-7289da?style=for-the-badge\&logo=discord)](https://discord.gg/pu9uDNVMHT)
+[![Discord](https://img.shields.io/badge/discord-join%20now-7289da?style=for-the-badge\&logo=discord)](https://discord.gg/kPx28kdwap)
 
 ---
 
